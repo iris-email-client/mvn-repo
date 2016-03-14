@@ -1,0 +1,13 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>net.suberic.crypto</groupId>
+	<artifactId>javamail-crypto</artifactId>
+	<version>1.0</version>
+	<packaging>jar</packaging>
+	<name>JavaMail-Cryto</name>
+	<description>This is an API addition to Sun's JavaMail API which provides simple encryption and decryption of emails using S/MIME and/or OpenPGP.</description>
+	<inceptionYear>2004</inceptionYear>
+	<url>http://javamail-crypto.sourceforge.net/</url>	
+
+</project>
